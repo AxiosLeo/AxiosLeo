@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Axios github stats](https://github-readme-stats.vercel.app/api?username=AxiosCros&show_icons=true&theme=radical&hide=issues&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AxiosCros)
+[![Axios github stats](https://github-readme-stats.vercel.app/api?username=AxiosCros&show_icons=true&hide=issues)](https://github.com/AxiosCros)
