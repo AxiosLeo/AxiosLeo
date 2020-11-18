@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Axios github stats](https://github-readme-stats.vercel.app/api?username=AxiosCros&show_icons=true&hide=issues)](https://github.com/AxiosCros)
+Hi, I'm [AxiosCros](https://hanxv.cn) !
+
+- 🔭 I’m currently working on [Darabonba Generator](https://github.com/aliyun/darabonba) and [TPR Framework](https://github.com/AxiosCros/tpr).
+- 💬 Ask me about anything [here](https://github.com/AxiosCros/AxiosCros/issues)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AxiosCros&show_icons=true&hide=issues" alt="AxiosCros's github stats" />
