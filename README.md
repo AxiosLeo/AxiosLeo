@@ -17,6 +17,6 @@ Hi, I'm [AxiosCros](https://hanxv.cn) !
 
 - 🔭 I’m currently working on [Darabonba Generator](https://github.com/aliyun/darabonba) and [TPR Framework](https://github.com/AxiosCros/tpr).
 - 💬 Ask me about anything [here](https://github.com/AxiosCros/AxiosCros/issues)
-- If you want to offer me a job, please contact axiosleo@foxmail.com
+- 💻 If you want to offer me a job, please contact me by email axiosleo@foxmail.com.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxiosCros&show_icons=true&hide=issues" alt="AxiosCros's github stats" />
