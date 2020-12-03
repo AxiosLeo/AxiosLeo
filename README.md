@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [AxiosCros](https://hanxv.cn) !
 
-- 🔭 I’m currently working on [Darabonba Generator](https://github.com/aliyun/darabonba) and [TPR Framework](https://github.com/AxiosCros/tpr).
+- 🔭 I’m currently working on [Darabonba](https://github.com/aliyun/darabonba) [C++](https://github.com/aliyun/darabonba-cpp-generator)&[PHP](https://github.com/aliyun/darabonba-php-generator) Generator and [TPR Framework](https://github.com/AxiosCros/tpr).
 - 💬 Ask me about anything [here](https://github.com/AxiosCros/AxiosCros/issues)
 - 💻 If you want to offer me a job, please contact me by email axiosleo@foxmail.com.
 
