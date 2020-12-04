@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 Hi, I'm [AxiosCros](https://hanxv.cn) !
 
 - 🔭 I’m currently working on [Darabonba](https://github.com/aliyun/darabonba) for [C++](https://github.com/aliyun/darabonba-cpp-generator)&[PHP](https://github.com/aliyun/darabonba-php-generator) and [TPR Framework](https://github.com/AxiosCros/tpr).
-- 💬 Ask me about anything [here](https://github.com/AxiosCros/AxiosCros/issues) or contact me by email axiosleo@foxmail.com.
+- 💬 Ask me about anything [here](https://github.com/AxiosCros/AxiosCros/issues) or contact me by email axiosleo@foxmail.com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxiosCros&show_icons=true&hide=issues" alt="AxiosCros's github stats" />
