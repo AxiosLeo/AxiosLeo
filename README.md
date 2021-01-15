@@ -33,6 +33,7 @@ Mainly maintained open source projects
 - C++
   - [Darabonba C++ SDK Core](https://github.com/aliyun/tea-cpp)
   - [Some Darabonba C++ libraries](https://github.com/alibabacloud-sdk-cpp)
+  - [Alibabacloud C++ SDK](https://github.com/aliyun/aliyun-openapi-cpp-sdk)
 - Java
   - [Darabonba Java SDK Core](https://github.com/aliyun/tea-java)
   - [Alibabacloud Java SDK](https://github.com/aliyun/aliyun-openapi-java-sdk)
