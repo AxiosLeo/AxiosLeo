@@ -24,13 +24,19 @@ Mainly maintained open source projects
   - [TPR framework](https://github.com/AxiosCros/tpr/wiki)
   - [TPR Workerman](https://github.com/AxiosCros/tpr-workerman)
   - [PHP Tools](https://github.com/AxiosCros/php-tools)
-  - [Darabonba PHP Core](https://github.com/aliyun/tea-php)
+  - [Darabonba PHP SDK Core](https://github.com/aliyun/tea-php)
+  - [Alibabacloud PHP SDK](https://github.com/aliyun/openapi-sdk-php-client)
 - Node.js
   - [@axiosleo/cli-tool](https://github.com/AxiosCros/node-cli)
   - [Darabonba C++ generator](https://github.com/aliyun/darabonba-cpp-generator)
   - [Darabonba PHP Generator](https://github.com/aliyun/darabonba-php-generator)
 - C++
-  - [Darabonba C++ Core](https://github.com/aliyun/tea-cpp)
-  - [Some Darabonba libraries](https://github.com/alibabacloud-sdk-cpp)
+  - [Darabonba C++ SDK Core](https://github.com/aliyun/tea-cpp)
+  - [Some Darabonba C++ libraries](https://github.com/alibabacloud-sdk-cpp)
+- Java
+  - [Darabonba Java SDK Core](https://github.com/aliyun/tea-java)
+  - [Alibabacloud Java SDK](https://github.com/aliyun/aliyun-openapi-java-sdk)
+- .Net
+  - [Alibabacloud .Net SDK](https://github.com/aliyun/aliyun-openapi-net-sdk)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxiosCros&show_icons=true&hide=issues" alt="AxiosCros's github stats" />
