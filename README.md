@@ -29,7 +29,7 @@ Mainly maintained open source projects
   - [@darabonba/cpp-generator](https://github.com/aliyun/darabonba-cpp-generator)
   - [@darabonba/php-generator](https://github.com/aliyun/darabonba-php-generator)
 - C++
-  - [C++ Code snippets](https://github.com/AxiosCros/cpp-sugar)
+  - [C++ code snippets](https://github.com/AxiosCros/cpp-sugar)
 - Darabonba
   - [Darabonba Java SDK Core](https://github.com/aliyun/tea-java)
   - [Darabonba PHP SDK Core](https://github.com/aliyun/tea-php)
