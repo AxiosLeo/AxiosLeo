@@ -28,8 +28,8 @@ Mainly maintained open source projects
   - [Alibabacloud PHP SDK](https://github.com/aliyun/openapi-sdk-php-client)
 - Node.js
   - [@axiosleo/cli-tool](https://github.com/AxiosCros/node-cli)
-  - [Darabonba C++ generator](https://github.com/aliyun/darabonba-cpp-generator)
-  - [Darabonba PHP Generator](https://github.com/aliyun/darabonba-php-generator)
+  - [@darabonba/cpp-generator](https://github.com/aliyun/darabonba-cpp-generator)
+  - [@darabonba/php-generator](https://github.com/aliyun/darabonba-php-generator)
 - C++
   - [Darabonba C++ SDK Core](https://github.com/aliyun/tea-cpp)
   - [Some Darabonba C++ libraries](https://github.com/alibabacloud-sdk-cpp)
