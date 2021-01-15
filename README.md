@@ -21,7 +21,7 @@ Hi, I'm [Axios](https://hanxv.cn) !
 Mainly maintained open source projects
 
 - PHP
-  - [TPR framework](https://github.com/AxiosCros/tpr/wiki)
+  - [TPR Framework](https://github.com/AxiosCros/tpr/wiki)
   - [TPR Workerman](https://github.com/AxiosCros/tpr-workerman)
   - [PHP Tools](https://github.com/AxiosCros/php-tools)
   - [Darabonba PHP SDK Core](https://github.com/aliyun/tea-php)
