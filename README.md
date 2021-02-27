@@ -17,7 +17,7 @@ Hi, I'm [Axios](https://hanxv.cn) !
 
 - 🔭 I’m currently working on [Darabonba](https://github.com/aliyun/darabonba) for [C++](https://github.com/aliyun/darabonba-cpp-generator)&[PHP](https://github.com/aliyun/darabonba-php-generator) and [TPR Framework](https://github.com/AxiosCros/tpr).
 - 💬 Ask me about anything [here](https://github.com/AxiosCros/AxiosCros/issues) or contact me by email axioscros@aliyun.com
-- QQ Group Code: 521797692
+- QQ Group: 521797692
 
 Mainly maintained open source projects
 
