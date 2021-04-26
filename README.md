@@ -29,6 +29,7 @@ Mainly maintained open source projects
   - [@axiosleo/cli-tool](https://github.com/AxiosCros/node-cli)
   - [@darabonba/cpp-generator](https://github.com/aliyun/darabonba-cpp-generator)
   - [@darabonba/php-generator](https://github.com/aliyun/darabonba-php-generator)
+  - [@darabonba/swift-generator](https://github.com/aliyun/swift-generator)
 - C++
   - [C++ code snippets](https://github.com/AxiosCros/cpp-sugar)
 - Darabonba
