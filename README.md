@@ -19,15 +19,4 @@ Hi, I'm [Axios](https://hanxv.cn) !
 - 💬 Ask me about anything [here](https://github.com/AxiosCros/AxiosCros/issues) or contact me by email axioscros@aliyun.com
 - QQ Group: 521797692
 
-Mainly maintained open source projects
-
-- PHP
-  - [TPR Framework](https://github.com/AxiosCros/tpr/wiki)
-  - [TPR Workerman](https://github.com/AxiosCros/tpr-workerman)
-  - [PHP Tools](https://github.com/AxiosCros/php-tools)
-- Node.js
-  - [@axiosleo/cli-tool](https://github.com/AxiosCros/node-cli)
-- C++
-  - [C++ code snippets](https://github.com/AxiosCros/cpp-sugar)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxiosCros&show_icons=true&hide=issues" alt="AxiosCros's github stats" />
