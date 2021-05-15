@@ -27,15 +27,7 @@ Mainly maintained open source projects
   - [PHP Tools](https://github.com/AxiosCros/php-tools)
 - Node.js
   - [@axiosleo/cli-tool](https://github.com/AxiosCros/node-cli)
-  - [@darabonba/cpp-generator](https://github.com/aliyun/darabonba-cpp-generator)
-  - [@darabonba/php-generator](https://github.com/aliyun/darabonba-php-generator)
-  - [@darabonba/swift-generator](https://github.com/aliyun/swift-generator)
 - C++
   - [C++ code snippets](https://github.com/AxiosCros/cpp-sugar)
-- Darabonba
-  - [Darabonba Java SDK Core](https://github.com/aliyun/tea-java)
-  - [Darabonba PHP SDK Core](https://github.com/aliyun/tea-php)
-  - [Darabonba C++ SDK Core](https://github.com/aliyun/tea-cpp)
-  - [Some Darabonba C++ libraries](https://github.com/alibabacloud-sdk-cpp)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxiosCros&show_icons=true&hide=issues" alt="AxiosCros's github stats" />
