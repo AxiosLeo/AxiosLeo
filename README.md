@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 Hi, I'm [Axios](https://hanxv.cn) !
 
 - 💬 Ask me about anything [here](https://github.com/AxiosCros/AxiosCros/issues) or contact me by email axioscros@aliyun.com
-- QQ Group: 521797692
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxiosCros&show_icons=true&hide=issues" alt="AxiosCros's github stats" />
