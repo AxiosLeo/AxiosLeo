@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Lonerro](https://github.com/AxiosLeo) !
 
-- 💬 Ask me about anything [here](https://github.com/AxiosLeo/AxiosLeo/issues) or contact me by email axioscros@aliyun.com
+- 💬 Ask me about anything [here](https://github.com/AxiosLeo/AxiosLeo/issues) or contact me by email axiosleo@foxmail.com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxiosLeo&show_icons=true&hide=issues" alt="AxiosLeo's github stats" />
 
