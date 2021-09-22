@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm [Lonerro](https://github.com/AxiosLeo) !
+Hi, I'm [AxiosLeo](https://github.com/AxiosLeo) !
 
 - 💬 Ask me about anything [here](https://github.com/AxiosLeo/AxiosLeo/issues) or contact me by email axiosleo@foxmail.com
 
