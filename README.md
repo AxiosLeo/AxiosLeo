@@ -19,10 +19,13 @@ Hi, I'm [AxiosLeo](https://github.com/AxiosLeo) !
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxiosLeo&show_icons=true&hide=issues" alt="AxiosLeo's github stats" />
 
-**Technologies:**
-<!-- 
+<details>
+<summary>Technologies</summary>
+<br/>
+<!--
 logo list : https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
+
 ![Node.js](https://img.shields.io/badge/-Node-FFF?&logo=node.js)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-FFF?&logo=TypeScript&logoColor=007ACC)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=typescript)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript&logoColor=ddc508)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
@@ -33,3 +36,5 @@ logo list : https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 ![Go](https://img.shields.io/badge/-Go-FFF?&logo=go)
 ![Swift](https://img.shields.io/badge/-Swift-FFF?&logo=swift)
 ![.Net](https://img.shields.io/badge/-.Net-FFF?&logo=dotnet&logoColor=B62829)
+
+</details>
