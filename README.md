@@ -34,7 +34,7 @@ logo list : https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 
 
 
-<!-- <a href=#><img src="contributions.svg"></a> -->
+<a href=#><img src="dist/github-contribution-grid-snake.svg"></a>
 
 <p align="center">
   Visitor count<br>
