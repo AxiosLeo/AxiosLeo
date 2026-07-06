@@ -1,57 +1,101 @@
-Hi, I'm [AxiosLeo](https://github.com/AxiosLeo) !
-
-- 💬 Ask me about anything [here](https://github.com/AxiosLeo/AxiosLeo/issues) or contact me by email axiosleo@foxmail.com
-
-<details>
-<summary>Technologies</summary>
-<br/>
-<!--
-logo list : https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
--->
-
-![Node.js](https://img.shields.io/badge/-Node-FFF?&logo=node.js)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-FFF?&logo=TypeScript&logoColor=007ACC)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=typescript)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript&logoColor=ddc508)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
-![PHP](https://img.shields.io/badge/-PHP-FFF?&logo=php)
-![Python](https://img.shields.io/badge/-Python-FFF?&logo=python)
-![C++](https://img.shields.io/badge/-C++-FFF?&logo=cplusplus&logoColor=CCCCCC)
-![Java](https://img.shields.io/badge/-Java-FFF?&logo=Java&logoColor=B62829)
-![Go](https://img.shields.io/badge/-Go-FFF?&logo=go)
-![Swift](https://img.shields.io/badge/-Swift-FFF?&logo=swift)
-![.Net](https://img.shields.io/badge/-.Net-FFF?&logo=dotnet&logoColor=B62829)
-
-</details>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=AxiosLeo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Code%20is%20poetry%2C%20and%20I%20write%20it%20every%20day&descSize=18&descAlignY=58" width="100%" />
 
 <p align="center">
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=AxiosLeo&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
-<!-- <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=AxiosLeo&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a> -->
-</P>
-
-<br/>
+  <a href="https://github.com/AxiosLeo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Open+Source+Enthusiast;Node.js+%2F+PHP+%2F+C%2B%2B+Lover;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-<img  height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=AxiosLeo&theme=radical"/>
-</P>
-
-<!-- <br/> -->
-
-<!-- <p align="center">
-<img height=172 src="https://github-profile-trophy.vercel.app/?username=AxiosLeo&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
-</P> -->
-
-<br/>
+  <img src="https://komarev.com/ghpvc/?username=AxiosLeo&style=for-the-badge&color=f75c7e" alt="Profile views" />
+  <a href="https://github.com/AxiosLeo?tab=followers">
+    <img src="https://img.shields.io/github/followers/AxiosLeo?style=for-the-badge&logo=github&color=blueviolet" alt="Followers" />
+  </a>
+  <a href="mailto:axiosleo@foxmail.com">
+    <img src="https://img.shields.io/badge/Email-axiosleo%40foxmail.com-2CA5E0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <p align="center">
-<a href=#><img src="https://raw.githubusercontent.com/AxiosLeo/AxiosLeo/refs/heads/output/github-contribution-grid-snake.svg"></a>
-</P>
+  💬 Ask me about anything <a href="https://github.com/AxiosLeo/AxiosLeo/issues">here</a>
+</p>
 
 <br/>
 
-<!-- <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_AxiosLeo/count.svg" />
-</p> -->
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,php,python,cpp,java,go,swift,dotnet&perline=10" alt="Languages" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,docker,nginx,linux,git,vscode,express,vue&perline=10" alt="Tools" />
+  </a>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/AxiosLeo">
+    <img height="180" src="https://my-stats-43gk.vercel.app/api?username=AxiosLeo&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+  </a>
+  <a href="https://github.com/AxiosLeo?tab=repositories">
+    <img height="180" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=AxiosLeo&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=AxiosLeo&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=AxiosLeo&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AxiosLeo&bg_color=141321&color=fe428e&line=f8d847&point=a9fef7&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+</p>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/AxiosLeo/tpr-cms">
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=tpr-cms&theme=radical" />
+  </a>
+  <a href="https://github.com/AxiosLeo/node-koapp">
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-koapp&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AxiosLeo/node-orm-mysql">
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-orm-mysql&theme=radical" />
+  </a>
+  <a href="https://github.com/AxiosLeo/node-cli">
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-cli&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AxiosLeo/php-tools">
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=php-tools&theme=radical" />
+  </a>
+  <a href="https://github.com/AxiosLeo/tpr">
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=tpr&theme=radical" />
+  </a>
+</p>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <a href="https://github.com/AxiosLeo">
+    <img src="https://raw.githubusercontent.com/AxiosLeo/AxiosLeo/refs/heads/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" />
