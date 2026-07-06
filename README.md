@@ -65,26 +65,26 @@
 
 <p align="center">
   <a href="https://github.com/AxiosLeo/tpr-cms">
-    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=tpr-cms&theme=radical" />
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=tpr-cms&theme=radical&card_width=400&description_lines_count=2" />
   </a>
   <a href="https://github.com/AxiosLeo/node-koapp">
-    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-koapp&theme=radical" />
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-koapp&theme=radical&card_width=400&description_lines_count=2" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/AxiosLeo/node-orm-mysql">
-    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-orm-mysql&theme=radical" />
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-orm-mysql&theme=radical&card_width=400&description_lines_count=2" />
   </a>
   <a href="https://github.com/AxiosLeo/node-cli">
-    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-cli&theme=radical" />
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-cli&theme=radical&card_width=400&description_lines_count=2" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/AxiosLeo/php-tools">
-    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=php-tools&theme=radical" />
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=php-tools&theme=radical&card_width=400&description_lines_count=2" />
   </a>
   <a href="https://github.com/AxiosLeo/tpr">
-    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=tpr&theme=radical" />
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=tpr&theme=radical&card_width=400&description_lines_count=2" />
   </a>
 </p>
 
