@@ -40,15 +40,15 @@
 
 <p align="center">
   <a href="https://github.com/AxiosLeo">
-    <img height="180" src="https://my-stats-43gk.vercel.app/api?username=AxiosLeo&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+    <img height="170" src="https://my-stats-43gk.vercel.app/api?username=AxiosLeo&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true" />
   </a>
   <a href="https://github.com/AxiosLeo?tab=repositories">
-    <img height="180" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=AxiosLeo&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical" />
+    <img height="170" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=AxiosLeo&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=AxiosLeo&theme=radical" />
+  <img height="170" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=AxiosLeo&theme=radical&card_width=715&card_height=170" />
 </p>
 
 <p align="center">
