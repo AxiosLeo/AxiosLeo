@@ -37,11 +37,11 @@ logo list : https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 <img  height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=AxiosLeo&theme=radical"/>
 </P>
 
-<br/>
+<!-- <br/> -->
 
-<p align="center">
+<!-- <p align="center">
 <img height=172 src="https://github-profile-trophy.vercel.app/?username=AxiosLeo&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
-</P>
+</P> -->
 
 <br/>
 
@@ -51,7 +51,7 @@ logo list : https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_AxiosLeo/count.svg" />
-</p>
+</p> -->
