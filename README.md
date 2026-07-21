@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=AxiosLeo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Code%20is%20poetry%2C%20and%20I%20write%20it%20every%20day&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=AxiosLeo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Happy%20coding!%20%F0%9F%A5%B3&descSize=20&descAlignY=58" width="100%" />
 
 <p align="center">
   <a href="https://github.com/AxiosLeo">
