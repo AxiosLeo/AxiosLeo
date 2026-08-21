@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/AxiosLeo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Open+Source+Enthusiast;Node.js+%2F+PHP+%2F+C%2B%2B+Lover;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Open+Source+Enthusiast;Node.js+%26+TypeScript+Lover;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -64,27 +64,27 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AxiosLeo/tpr-cms">
-    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=tpr-cms&theme=radical&card_width=400&description_lines_count=2" />
-  </a>
   <a href="https://github.com/AxiosLeo/node-koapp">
     <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-koapp&theme=radical&card_width=400&description_lines_count=2" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/AxiosLeo/node-orm-mysql">
     <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-orm-mysql&theme=radical&card_width=400&description_lines_count=2" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/AxiosLeo/node-cli">
     <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=node-cli&theme=radical&card_width=400&description_lines_count=2" />
   </a>
+  <a href="https://github.com/AxiosLeo/webhook-cd">
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=webhook-cd&theme=radical&card_width=400&description_lines_count=2" />
+  </a>
 </p>
 <p align="center">
-  <a href="https://github.com/AxiosLeo/php-tools">
-    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=php-tools&theme=radical&card_width=400&description_lines_count=2" />
+  <a href="https://github.com/AxiosLeo/sql2api">
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=sql2api&theme=radical&card_width=400&description_lines_count=2" />
   </a>
-  <a href="https://github.com/AxiosLeo/tpr">
-    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=tpr&theme=radical&card_width=400&description_lines_count=2" />
+  <a href="https://github.com/AxiosLeo/monorepo-template">
+    <img src="https://my-stats-43gk.vercel.app/api/pin/?username=AxiosLeo&repo=monorepo-template&theme=radical&card_width=400&description_lines_count=2" />
   </a>
 </p>
 
